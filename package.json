@@ -1,0 +1,19 @@
+{
+  "name": "Sample app",
+  "version": "1.0.0",
+  "description": "a simple pwa",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.2"
+  },
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "Friday Candour",
+  "license": "MIT"
+}
