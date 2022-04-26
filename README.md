@@ -49,4 +49,4 @@ Cradova.js supports various versions of IE11, Firefox ESR, and Firefox, Edge, Sa
 npm install Cradova --save
 ```
 
-<img src="Sample app.jpg">
+<img src="cradova.png">
